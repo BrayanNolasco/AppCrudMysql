@@ -79,13 +79,6 @@ Toast.LENGTH_SHORT);
  }else{
  }
  conta++;
-
-
-
-
-
-
-
  */
             }
             @Override
