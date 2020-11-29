@@ -29,8 +29,6 @@ public class ProductoAdapter extends RecyclerView.Adapter<ProductoAdapter.Produc
         return new ProductoHolder(vista);
     }
 
-
-
     @Override
     public void onBindViewHolder(ProductoHolder holder, int position) {
         dto_productos dto = listaProductos.get(position);
