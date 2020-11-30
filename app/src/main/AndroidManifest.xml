@@ -30,7 +30,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".ui.categoria.Edit_Categoria" />
-        <!--<activity android:name=".ui.list_recycle_cate.DetalleCategoria" />-->
+        <activity android:name=".ui.list_recycle_cate.DetalleCategoria" />
         <activity android:name=".ui.list_recycle_pro.DetalleProducto" />
         <activity android:name=".ui.list_recycle_usu.DetalleUsuario" />
         <activity android:name=".ui.producto.Edit_Producto" />
